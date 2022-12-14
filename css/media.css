@@ -1,0 +1,172 @@
+@media (max-width: 1440px) {
+    .container{
+        width: 90%;
+    }
+}
+@media (max-width: 1200px) {
+    #customer{
+        padding: 10px;
+    }
+    *{
+        padding: 10px 0;
+    }
+}
+@media (max-width:1024px ) {
+    .process-group{
+        flex-wrap: wrap;
+    }
+    .focus-desc{
+        flex-wrap: wrap;
+    }
+    .price{
+        flex-wrap: wrap;
+    }
+    .price-block{
+        margin: 20px 0;
+    }
+    .client-art{
+        flex-wrap: wrap;
+    }
+    .client-art{
+        margin: 20px 0;
+    }
+}
+@media (max-width: 992px) {
+    .client{
+        margin: 20px 0;
+    }
+    
+}
+@media (max-width: 768px) {
+    .hero{
+        flex-direction: column;
+    }
+    .hero-group h1{
+        text-align: center;
+    }
+    .hero-group p{
+        text-align: center;
+    }
+    .part{
+        flex-direction: column;
+        text-align: center;
+    }
+    .support{
+        flex-direction: column;
+    }
+    .part-align-button{
+        margin: 0 100px ;
+        text-align: center;
+    }
+    .focus-desc{
+        justify-content: center;
+    }
+    .footer-desc{
+        flex-wrap: wrap;
+    }
+}
+@media (max-width: 576px) {
+    .part{
+        flex-wrap: wrap;
+    }
+    .join{
+        width: 90%;
+    }
+    .hero-img{
+        width: 90%;
+    }
+    .price{
+        justify-content: center;
+    }
+    .tive{
+        text-align: center;
+    }
+    .tive-h h2 {
+        padding: 10px 160px;
+    }
+    .support-img{
+        width: 90%;
+    }
+   .join-title{
+       flex-direction: column;
+   }
+    .client-art{
+        justify-content: center;
+    }
+    }
+@media (max-width: 450px) {
+
+
+}
+@media (max-width: 400px) {
+    .imaje{
+        width: 90%;
+    }
+    .join-img{
+        display: none;
+    }
+    .tive-img{
+        width: 90%;
+    }
+
+}
+@media (max-width: 375px) {
+    .part-align-button{
+        margin: 0;
+    }
+    .tive{
+        flex-direction: column;
+    }
+    .tive-h h2{
+        padding: 10px 60px;
+    }
+    .block-img{
+        width: 90%;
+    }
+    .block-img2{
+        width: 90%;
+    }
+    .block-img3{
+        width: 90%;
+    }
+}
+@media (max-width: 320px) {
+    .tive-h h2{
+        padding: 10px 60px;
+    }
+    .block-img{
+        width: 90%;
+    }
+    .block-img2{
+        width: 90%;
+    }
+    .block-img3{
+        width: 90%;
+    }
+    .footer-desc{
+        flex-direction: column;
+    }
+    .navbar{
+        flex-direction: column;
+    }
+    .hero-group-content{
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+    }
+    .support{
+        padding: 0 10px;
+    }
+    .tive-h{
+        padding: 0 10px;
+    }
+    .focus{
+        padding: 0 10px;
+    }
+    .price{
+        padding: 0 10px;
+    }
+    .client-art{
+        padding: 0 10px;
+    }
+}
